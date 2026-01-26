@@ -178,7 +178,7 @@
         <awaitility.version>4.0.3</awaitility.version>
         <mockito.version>3.12.4</mockito.version>
         <powermock.version>2.0.9</powermock.version>
-        <assertj.version>3.4.1</assertj.version>
+        <assertj.version>3.27.7</assertj.version>
         <wiremock.version>2.35.1</wiremock.version>
 
         <jakarta.version>2.0.2</jakarta.version>
